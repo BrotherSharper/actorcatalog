@@ -11,11 +11,11 @@
 
 または
 
-* Add-on Modulesタブ→Module Installを開いて「日本語」と検索すればモッドブラウザに出てきますのでそこからインストールしてください。（5月下旬頃から使用可能）
+* Add-on Modulesタブ→Module Installを開いて「立ち絵」と検索すればモッドブラウザに出てきますのでそこからインストールしてください。（5月下旬頃から使用可能）
 
 ## 内容
 
-![img](https://s2.booth.pm/fca2e799-dd8e-41ff-9f13-e76d7ff9769a/i/2889597/1f039f96-40b9-4e3e-bbaf-6075f5539cc9_base_resized.jpg | width=400)
+![img](https://s2.booth.pm/fca2e799-dd8e-41ff-9f13-e76d7ff9769a/i/2889597/1f039f96-40b9-4e3e-bbaf-6075f5539cc9_base_resized.jpg)
 
 ### 日本語
 たつみが描いた立ち絵をFVTTで使用しやすいように辞典modにしたものです。
