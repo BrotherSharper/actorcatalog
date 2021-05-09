@@ -1,4 +1,4 @@
-[img](https://s2.booth.pm/fca2e799-dd8e-41ff-9f13-e76d7ff9769a/i/2889597/1f039f96-40b9-4e3e-bbaf-6075f5539cc9_base_resized.jpg)
+(img)[https://s2.booth.pm/fca2e799-dd8e-41ff-9f13-e76d7ff9769a/i/2889597/1f039f96-40b9-4e3e-bbaf-6075f5539cc9_base_resized.jpg]
 
 日本語：
 たつみが描いた立ち絵をFVTTで使用しやすいように辞典modにしたものです。
@@ -41,4 +41,4 @@ If you are using any other system please set them manually. If you would like to
 
 Images inside this module are all 400x400.
 
-[promoimg](promo image.jpg) 
+(promoimg)[promo image.jpg] 
