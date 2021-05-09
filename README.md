@@ -1,7 +1,7 @@
-# tatsumi作立ち絵追加Mod
+# tatsumi作立ち絵Mod (Actor Catalog)
 
 * **製作者**: [Tatsumi](https://twitter.com/dra5on_tatsumi)
-* **対応FVTTバージョン**: 0.7.6~0.7.9
+* **対応FVTTバージョン**: 0.7.5~0.7.9
 * **modバージョン**: 1.0
 
 ### インストール方法： 
@@ -15,7 +15,7 @@
 
 ## 内容
 
-![img](https://s2.booth.pm/fca2e799-dd8e-41ff-9f13-e76d7ff9769a/i/2889597/1f039f96-40b9-4e3e-bbaf-6075f5539cc9_base_resized.jpg =400x)
+![img](https://s2.booth.pm/fca2e799-dd8e-41ff-9f13-e76d7ff9769a/i/2889597/1f039f96-40b9-4e3e-bbaf-6075f5539cc9_base_resized.jpg | width=400)
 
 ### 日本語
 たつみが描いた立ち絵をFVTTで使用しやすいように辞典modにしたものです。
