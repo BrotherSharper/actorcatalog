@@ -4,9 +4,9 @@
   "description": "たつみ作の立ち絵ツール（Theatre Inserts）対応の立ち絵画像がいっぱい。D&D5版のキャラシにて表情差分設定済です。This is a module which adds a bunch of anime style character portraits created by Tatsumi. If you are using the dnd5e sheet you can also import emotes enabled sheets aswell.",
   "author": "tatsumi",
   "readme": "",
-  "version": "1.0",
+  "version": "1.1",
   "minimumCoreVersion": "0.7.5",
-  "compatibleCoreVersion": "0.7.9",
+  "compatibleCoreVersion": "0.8.7",
   "packs": [
     {
       "name": "actorcatalog",
